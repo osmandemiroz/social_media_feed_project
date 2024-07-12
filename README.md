@@ -43,17 +43,23 @@ To run the app in debug mode:
 - flutter run 
 ## Project Structure
 lib/
+
 ├── main.dart
+
 ├── models/
 │   └── post.dart
+
 ├── screens/
 │   ├── feed_screen.dart
 │   ├── post_detail_screen.dart
 │   └── create_post_screen.dart
+
 ├── services/
 │   └── post_service.dart
+
 ├── utils/
 │   └── responsive_sizer.dart
+
 └── widgets/
 └── post_card.dart
 
